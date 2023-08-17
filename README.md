@@ -9,6 +9,7 @@ A responsive email confirmation template designed for use with The CityGate Chur
 
 - [Introduction](#introduction)
 - [Features](#features)
+-  [Demo](#demo)
 - [Main Project Repository](#main-project-repository)
 - [Usage](#usage)
 - [Customization](#customization)
@@ -25,6 +26,10 @@ The Email Confirmation Template is an essential component of The CityGate Church
 - Responsive design that adapts to various devices and screen sizes.
 - Clear and user-friendly layout for email confirmation messages.
 - Integration with the subscription management system for seamless workflow.
+
+## Demo
+
+You can see a live demo of the Email Confirmation Template by visiting the [GitHub Pages Deployment](https://generalclez.github.io/Email-Confirmation-Template/)
 
 ## Main Project Repository
 
